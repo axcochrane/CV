@@ -43,9 +43,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Appear Here - London** (Nov'16 to Apr'17)    
 *Head of Commercial, Europe*  
+
 **Funding Circle Continental Europe - Berlin** (Oct'15 to Feb'16)   
 *International Expansion Team, Manager*  
+
 **Funding Circle USA - San Francisco** (Nov'13 to Oct'15)   
 *Business Development Team, Sales Manager*  
+
 **Funding Circle UK - London** (Sep'12 to Nov'13)   
 *Sales Team Lead*  
