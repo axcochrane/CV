@@ -1,6 +1,6 @@
-## Your Name
+## Sandy Cochrane
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Recent Fullstack bootcamp grad looking for a Jnr role where I can consolidate and build on my programming knowledge. Previous experience working for various start-ups (Series A - E) in London, San Francisco & Berlin heading up Commercial / BD Teams. Love building things. It used to be teams and strategies now it's more apps and programms. Eager to find a team of super smart people who love the projects they work on, would love to contribute it whatever capacity I can!    
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Apr'17 - Jun'17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,13 +32,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### SOAS (University of London) (Sep'08 - Sep'11)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
 
 ## Experience
 
