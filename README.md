@@ -25,18 +25,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Apr'17 - Jun'17)
 
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Sinatra, Javascript, JQuery
+- CSS, Bootstrap
+- SQL, PostgreSQL
+- Rspec, Jasmine
 
 #### SOAS (University of London) (Sep'08 - Sep'11)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Economic & Politics. Broad focus on macroeconomic drivers of development with a focus on SE Asian
+- 2:1
+- Founded the Malaysian Society, played for 1st XI football team
 
 
 ## Experience
