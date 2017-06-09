@@ -1,6 +1,6 @@
 ## Sandy Cochrane
 
-Recent Fullstack bootcamp grad looking for a Jnr role where I can consolidate and build on my programming knowledge. Previous experience working for various start-ups (Series A - E) in London, San Francisco & Berlin heading up Commercial / BD Teams. Love building things. It used to be teams and strategies now it's more apps and programms. Eager to find a team of super smart people who love the projects they work on, would love to contribute it whatever capacity I can!    
+Recent Fullstack bootcamp grad looking for a Jnr role where I can consolidate and build on my programming knowledge. Previous experience working for various start-ups (Series A - E) in London, San Francisco & Berlin heading up Commercial / BD Teams. Love building things. It used to be teams and strategies now it's more apps and programs. Eager to find a team of super smart people who love the projects they work on, would love to contribute it whatever capacity I can!    
 
 ## Skills
 
